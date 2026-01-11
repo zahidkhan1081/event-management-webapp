@@ -11,7 +11,7 @@ It is a responsive front-end web application that allows users to **view, add, d
 🔗 https://zahidkhan1081.github.io/event-management-webapp/
 
 ## 🌐 Source Code
-🔗  https://github.com/zahidkhan1081/simple-calculator
+🔗  https://github.com/zahidkhan1081/event-management-webapp
 ---
 
 ## 🛠 Technologies Used
